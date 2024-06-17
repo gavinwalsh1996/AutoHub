@@ -6,3 +6,9 @@ export interface CustomButtonProps {
     handleClick?: MouseEventHandler<HTMLButtonElement>;
     btnType?: "button" | 'submit';
 }
+// export interface CustomFilter {
+//     title: string;
+//     containerStyles?: string;
+//     handleClick?: MouseEventHandler<HTMLButtonElement>;
+//     btnType?: "button" | 'submit';
+// }

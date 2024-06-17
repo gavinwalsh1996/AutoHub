@@ -33,7 +33,7 @@
 }
 /* Added temp bg-primary-blue text-white rounded-full mt-10 */
 .custom-btn {
-  @apply flex flex-row relative justify-center items-center py-3 px-6 outline-none;
+  @apply flex flex-row relative justify-center items-center py-3 px-6 outline-none z-50;
 }
 /* END: General styles */
 

@@ -12,11 +12,6 @@ const Footer = () => (
           All Rights Reserved &copy;
         </p>
       </div>
-
-      <div className="footer__links">
-
-      </div>
-
       <div className="footer__links">
         {footerLinks.map((item) => (
           <div key={item.title} className="footer__link">

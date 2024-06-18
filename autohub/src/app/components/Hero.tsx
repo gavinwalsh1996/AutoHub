@@ -28,8 +28,8 @@ function Hero() {
                 <div className="hero__image">
                     <Image src="/hero.png" alt="hero" fill className="object-contain" />
                 </div>
-
-                <div className="hero__image-overlay" />
+                {/* Temp disabled */}
+                {/* <div className="hero__image-overlay" /> */}
             </div>
         </div>
     )
